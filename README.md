@@ -24,16 +24,10 @@ The report focuses on meal counts, expenses, revenue, and cost per meal by month
 - Expense breakdown by site category  
 ![Annual Overview](images/annual-overview.png)
 
-### 2) Monthly Trends
-- Meals served trend by month
-- Cost per meal trend by month
-- Revenue vs expenses trend  
-![Monthly Trends](images/monthly-trends.png)
-
-### 3) Site Performance
+### 2) Site Performance
 - Cost per meal by site ranking
 - Efficiency scatter: meals served vs cost per meal
-- (Optional) expense breakdown by site  
+- Expense breakdown by site  
 ![Site Performance](images/site-performance.png)
 
 ---
